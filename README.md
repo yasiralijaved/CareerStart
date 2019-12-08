@@ -34,6 +34,6 @@
     4- Past Tab contains the list of previously completed projects of this company
     
     
-    4- Others Tab contains the list of cacneled or other type of projects of this company
+    5- Others Tab contains the list of cacneled or other type of projects of this company
     
     
